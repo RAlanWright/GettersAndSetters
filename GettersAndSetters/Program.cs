@@ -10,6 +10,8 @@ namespace GettersAndSetters
     {
         static void Main(string[] args)
         {
+
+            Console.ReadLine();
         }
     }
 }
